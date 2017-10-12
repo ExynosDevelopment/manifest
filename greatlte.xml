@@ -8,7 +8,7 @@
   <!--Vendor-->
   <project name="ExynosDevelopment/android_vendor_samsung_great-common" path="vendor/samsung/great-common" remote="github" revision="lin-14.1" />
   <!--Samsung Hardware all-in-one-->
-  <project name="LineageOS/android_hardware_samsung" path="hardware" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
   <!--UBERTC Toolchain-->
   <project name="djb77/aarch64-cortex_a53-linux-gnueabi" path="prebuilts/gcc/linux-x86/aarch64/aarch64-cortex_a53-linux-gnueabi" remote="github" revision="uber" />
 </manifest>
